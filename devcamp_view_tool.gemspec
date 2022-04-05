@@ -5,8 +5,8 @@ require_relative "lib/devcamp_view_tool/version"
 Gem::Specification.new do |spec|
   spec.name = "devcamp_view_tool"
   spec.version = DevcampViewTool::VERSION
-  spec.authors = ["TODO: Write your name"]
-  spec.email = ["TODO: Write your email address"]
+  spec.authors = ["Fernando Andrade"]
+  spec.email = ["fwmpa@email.com"]
 
   spec.summary = "Various view speicif methods for applications I use"
   spec.description = "Provides generated HTML data for Rails Applications"
